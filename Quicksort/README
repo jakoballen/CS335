@@ -1,0 +1,4 @@
+To compile the code, navigate to the directory containing the file "QuickSort.java". Then,
+run the command "javac QuickSort.java" to compile. To run the code, run "java QuickSort".
+This will then print the original array, the array being split, and the end result of
+the array being sorted. The original array is {16,19,56,5,8,3,2,6,7,1,4,9,11,98}.

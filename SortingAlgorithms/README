@@ -1,0 +1,8 @@
+How to compile:
+  Navigate to the folder (~SortingAlgorithms/src) containing the code in the terminal window. 
+  Compile with the command "javac *.java" To execute the program, then run the command "java SortingAlgorithmsGUI"
+
+Using the program:
+  A sorting algorithm can be selected using the combobox at the top. The choices are bubble sort and merge sort.
+  Then type integers in the text area delimited by a single space (1 2 3 4 5) and press the "Go" button. The program will then
+  sort the array and update the GUI window with the steps taken and terminate with a sorted array.
